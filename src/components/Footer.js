@@ -31,8 +31,8 @@ const Footer = () => {
 
       <div className="mt-8 border-t border-[#8556D6] pt-4 text-center">
         <div className="flex justify-center space-x-4 text-sm">
-          <a href="#" className="hover:underline">Privacy Policy</a>
-          <a href="#" className="hover:underline">Terms & Conditions</a>
+          <a href="https://atdigital.lk/" className="hover:underline">Privacy Policy</a>
+          <a href="https://atdigital.lk/" className="hover:underline">Terms & Conditions</a>
         </div>
         <p className="mt-2 text-sm">© 2024 Primal Fernando.</p>
       </div>
